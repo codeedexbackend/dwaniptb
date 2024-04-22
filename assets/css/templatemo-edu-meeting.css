@@ -1998,7 +1998,7 @@ responsive
 
 @media only screen and (max-width: 1700px) {
   .services {
-    margin-top: -114px;
+    margin-top: -80px;
     position: absolute;
     width: 100%;
   }
